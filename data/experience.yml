@@ -1,18 +1,40 @@
 - company: BCS Allegient
-  title: Technical Writer
-  location: Washington, DC
-  duration: Oct 2023 - Present
-  responsibilities:
-    - Partnered with engineers and product teams to produce clear and engaging user manuals, reducing help desk inquiries by 25%.
-    - Streamlined workflows using Microsoft Azure, enhancing project efficiency.
-    - Managed documentation projects using Agile methodologies, consistently ahead of deadlines.
-    - Authored press releases and blogs for external stakeholders.
+work_experience:
+  - title: "AI-Driven Product Documentation"
+    company: "Zefr"
+    responsibilities:
+      - "Produced release notes and user guides for machine learning products, simplifying technical concepts for a broad audience and improving adoption."
+      - "Established documentation guidelines to ensure consistency and reduce delivery times by 15%."
+  - title: "New Feature Rollouts"
+    company: "ServiceTitan"
+    responsibilities:
+      - "Developed step-by-step guides and multimedia tutorials for new software features, reducing support requests by 40%."
+      - "Drove user engagement through effective instructional content."
 
-- company: Central Plateau Cleanup Committee
-  title: Senior Work Planner
-  location: Richland, WA
-  duration: Dec 2022 - Oct 2023
+styles:
+  body:
+    font-family: "Arial, sans-serif"
+    line-height: "1.6"
+    background-color: "#f9f9f9"
+    margin: "0"
+    padding: "20px"
+  container:
+    max-width: "800px"
+    margin: "0 auto"
+  experience_card:
+    border: "2px solid #4CAF50"
+    border-radius: "10px"
+    padding: "15px"
+    margin-bottom: "20px"
+    background-color: "#fff"
+    box-shadow: "0 4px 6px rgba(0, 0, 0, 0.1)"
+  headings:
+    h3:
+      margin-top: "0"
+      color: "#4CAF50"
   responsibilities:
-    - Created planning documents for $75M nuclear facility projects, ensuring compliance.
-    - Developed progress aids that streamlined contractor understanding and delivery.
-    - Maintained safety documentation, emphasizing clarity and compliance.
+    margin-top: "10px"
+    padding-left: "20px"
+    li:
+      margin-bottom: "5px"
+
