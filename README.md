@@ -1,6 +1,6 @@
 # Professional Portfolio
 
-Welcome to my professional portfolio repository! Here you'll find my resume, key projects, and technical skills, presented in a modern and developer-friendly format.
+Welcome to my professional portfolio repository! Here you'll find my resume, key projects, and technical skills.
 
 ## Contents
 - [Resume](resume.md)
@@ -9,7 +9,7 @@ Welcome to my professional portfolio repository! Here you'll find my resume, key
 - [Skills](data/skills.yml)
 
 ## Contact Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/augustelliottwhite/)
 - [Portfolio Website](https://yourwebsite.com)
 - [Email Me](mailto:your-email@example.com)
 
