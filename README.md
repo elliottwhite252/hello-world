@@ -1,6 +1,4 @@
-# hello-world
-This is for Practicing Git Hub Flow.
-I am a technical writer trying to learn Git Hub. I see a lot of technical writing roles in which Git Hub experience is required.
+Hi there! I’m an experienced Technical Writer who loves creating clear, user-friendly documentation and engaging video tutorials for SaaS, AI-driven products, and complex software systems. I’ve worked on everything from release notes to user guides, helping reduce support inquiries and improve user adoption. I thrive on collaborating with cross-functional teams, using Agile methodologies to deliver timely high-quality content. I’m skilled with tools like Confluence, MadCap Flare, Camtasia, and GitHub, and I’m always eager to learn—right now, I’m diving deeper into API documentation. My goal is to simplify complex concepts and create content that empowers users and enhances their experience.
 
 Here are some useful links I have found helpful in my technical writing career:
 
