@@ -1,6 +1,6 @@
 # <span style="border: 2px solid #4CAF50; padding: 8px 16px; border-radius: 8px;"> **Professional Portfolio** </span>  
 
-Welcome to my professional portfolio! Dive into my resume, explore key projects, and discover the technical skills that drive my success.  
+Welcome to my professional portfolio! Dive into my resume, explore key projects, and discover my technical skills.  
 
 ---
 
