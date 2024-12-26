@@ -10,6 +10,5 @@ Welcome to my professional portfolio repository! Here you'll find my resume, key
 
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/augustelliottwhite/)
-- [Portfolio Website](https://yourwebsite.com)
-- [Email Me](mailto:your-email@example.com)
+- [Email Me](mailto:augustelliott.white@outlook.com)
 
