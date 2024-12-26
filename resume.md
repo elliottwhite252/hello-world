@@ -1,4 +1,4 @@
-# [Elliott White]
+# Elliott White
 
 📍 Richland, WA  
 ✉️ [your-email@example.com](mailto:your-email@example.com)  
