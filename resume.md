@@ -2,7 +2,7 @@
 
 📍 Richland, WA  
 ✉️ [augustelliottwhite@outlook.com](mailto:augustelliott.white@outlook.com)  
-📂 [LinkedIn](https://www.linkedin.com/in/augustelliottwhite/) | [GitHub](https://github.com/your-profile)  
+📂 [LinkedIn](https://www.linkedin.com/in/augustelliottwhite/)  
 
 ---
 
