@@ -1,7 +1,7 @@
 # Elliott White
 
 📍 Richland, WA  
-✉️ [your-email@example.com](mailto:augustelliott.white@outlook.com)  
+✉️ [augustelliottwhite@outlook.com](mailto:augustelliott.white@outlook.com)  
 📂 [LinkedIn](https://www.linkedin.com/in/augustelliottwhite/) | [GitHub](https://github.com/your-profile)  
 
 ---
