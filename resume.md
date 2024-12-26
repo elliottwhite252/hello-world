@@ -1,8 +1,7 @@
-# [Your Name]
+# [Elliott White]
 
-📍 Washington, DC  
+📍 Richland, WA  
 ✉️ [your-email@example.com](mailto:your-email@example.com)  
-🌐 [yourwebsite.com](https://yourwebsite.com)  
 📂 [LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-profile)  
 
 ---
