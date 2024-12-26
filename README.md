@@ -1,10 +1,15 @@
-Hi there! I’m an experienced Technical Writer who loves creating clear, user-friendly documentation and engaging video tutorials for SaaS, AI-driven products, and complex software systems. I’ve worked on everything from release notes to user guides, helping reduce support inquiries and improve user adoption. I thrive on collaborating with cross-functional teams, using Agile methodologies to deliver timely high-quality content. I’m skilled with tools like Confluence, MadCap Flare, Camtasia, and GitHub, and I’m always eager to learn—right now, I’m diving deeper into API documentation. My goal is to simplify complex concepts and create content that empowers users and enhances their experience.
+# Professional Portfolio
 
+Welcome to my professional portfolio repository! Here you'll find my resume, key projects, and technical skills, presented in a modern and developer-friendly format.
 
+## Contents
+- [Resume](resume.md)
+- [Key Projects](data/experience.yml)
+- [Education](data/education.yml)
+- [Skills](data/skills.yml)
 
+## Contact Me
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Portfolio Website](https://yourwebsite.com)
+- [Email Me](mailto:your-email@example.com)
 
-Here are some useful links I have found helpful in my technical writing career:
-
-1.  https://www.freecodecamp.org/news/how-to-write-api-documentation-like-a-pro/
-2.  https://developers.google.com/tech-writing/two/sample-code
-3.  https://docs.github.com/en/get-started/start-your-journey/hello-world
