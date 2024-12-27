@@ -55,7 +55,7 @@
 
 **Documentation Tools:** Madcap Flare, Confluence, Contentful  
 **Project Management:** Jira, Aha, Azure DevOps  
-**Content Creation:** HTML, GitHub, Microsoft Office Suite  
+**Content Creation:** HTML, GitHub, Microsoft Office Suite, Google Suite  
 **Design:** Figma, Adobe Illustrator, Photoshop  
 
 [Full Skills List](data/skills.yml)
