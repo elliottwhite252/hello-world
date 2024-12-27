@@ -45,7 +45,7 @@
 - **Master of Business Administration**  
   _Western Governors University_ — Salt Lake City, UT _(Est. Aug 2025)_  
 - **Bachelor of Arts in English**  
-  _Washington State University_ — Richland, WA _(Dec 2017)_
+  _Washington State University_ — Richland, WA
 
 [Full Education Details](data/education.yml)
 
