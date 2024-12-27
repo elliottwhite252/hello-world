@@ -13,7 +13,7 @@ Welcome to my professional portfolio! Dive into my resume, explore key projects,
 ---
 
 ## ✨ **Connect With Me**  
-- 💼 <a href="https://www.linkedin.com/in/augustelliottwhite/" target="_blank">**LinkedIn**</a>
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/augustelliottwhite/) 
 - 📧 [**Email Me**](mailto:augustelliott.white@outlook.com)  
 
 ---
