@@ -19,7 +19,7 @@ Hello! I'm a **Technical Writer** passionate about creating clear, concise, and 
 
 ---
 
-I’m always excited to explore innovative tools and techniques to enhance how we document and share knowledge. Feel free to explore my repositories or connect with me for potential collaborations. Let’s build something great together!
+I’m always excited to explore innovative tools and techniques to enhance how we document and share knowledge. Feel free to connect with me for potential collaborations!
 
 
 ---
