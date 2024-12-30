@@ -1,9 +1,9 @@
 # <span style="border: 2px solid #4CAF50; padding: 8px 16px; border-radius: 8px;"> **Welcome to My GitHub 👋** </span>  
 
-Hi there! I'm a **Technical Writer** with a passion for creating clear, concise, and user-focused documentation. I specialize in bridging the gap between complex technologies and their users.
+Hello! I'm a **Technical Writer** passionate about creating clear, concise, and user-focused documentation. I specialize in bridging the gap between complex technologies and their users.
 
 ## What I Bring to the Table:
-- 🌟 Expertise in **technical writing** for cutting-edge technologies, including AI, cloud-based solutions, and APIs.
+- 🌟 Expertise in **technical writing** for SaaS technologies, including AI, and cloud-based solutions.
 - 🔧 Proficiency with tools like **Madcap Flare, Confluence, Contentful, Snagit, Camtasia**, and version control systems like **GitHub**.
 - 🚀 A track record of improving user experience through:
   - Release notes
