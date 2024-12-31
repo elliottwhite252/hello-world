@@ -10,11 +10,13 @@
 
 ### **BCS Allegient** — _Technical Writer_  
 **Oct 2023 - Present** | Washington, DC  
-- Partnered with engineers and product teams to produce clear and engaging user manuals, reducing help desk inquiries by **25%**.  
-- Streamlined workflows using **Microsoft Azure**, enhancing project efficiency.  
-- Managed documentation projects using **Agile methodologies**, consistently ahead of deadlines.  
-- Authored press releases and blogs for external stakeholders.  
-
+- Collaborated with engineers and product teams to create user-friendly documentation, reducing Department of Energy software help desk inquiries by 25%.
+- Optimized team workflows and collaboration by implementing Microsoft Azure, resulting in enhanced project efficiency and streamlined processes.
+- Delivered high-quality technical content ahead of deadlines by managing multiple documentation projects simultaneously using Agile methodologies, ensuring consistent quality and team alignment.
+- Crafted press releases and blogs to effectively communicate key initiatives to external stakeholders, leveraging storytelling and technical accuracy to ensure clarity and engagement.
+- Collaborated with cross-functional teams to test products and translate complex technical data into clear, actionable customer-facing content, improving product adoption and user understanding.
+![image](https://github.com/user-attachments/assets/efe55bf3-f489-4f80-bad5-d4be02e04cf2)
+ 
 ### **Central Plateau Cleanup Committee** — _Senior Work Planner_  
 **Dec 2022 - Oct 2023** | Richland, WA  
 - Created planning documents for **$75M nuclear facility projects**, ensuring compliance.  
