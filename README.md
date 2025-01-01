@@ -14,7 +14,7 @@ Hello! I'm a **Technical Writer** passionate about creating clear, concise, and 
 
 ## A Few Highlights:
 - Authored user-friendly documentation for machine learning products, reducing support tickets by **30%** at Zefr.
-- Created over 500 SaaS feature guides at ServiceTitan, increasing onboarding efficiency and customer satisfaction.
+- Created over 50 SaaS feature guides at ServiceTitan, increasing onboarding efficiency and customer satisfaction.
 - Developed step-by-step guides and multimedia tutorials, boosting engagement and adoption by **40%**.
 
 ---
